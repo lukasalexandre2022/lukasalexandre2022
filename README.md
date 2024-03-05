@@ -34,4 +34,9 @@
   <a href="https://wa.link/7uah96" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-![snake gif](https://github.com/lukasalexandre2022/lukasalexandre2022/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lukasalexandre2022/lukasalexandre2022/output/github-contribution-grid-snake.svg" />
+ <br/><br/><br/>
+</div>
