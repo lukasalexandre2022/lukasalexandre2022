@@ -8,7 +8,7 @@
 - 😄 Pronouns: Ele/Dele
   
 <div>
-  <a href="https://github.com/lukasalexandre2022">
+  <a href="https://github.com/LukasAlexandre">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lukasalexandre2022&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasalexandre2022&layout-compact&langs_count=16&theme=dark">
 </div>
@@ -37,6 +37,6 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lukasalexandre2022/lukasalexandre2022/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LukasAlexandre/LukasAlexandre/output/github-contribution-grid-snake-dark.svg"/>
  <br/><br/><br/>
 </div>
