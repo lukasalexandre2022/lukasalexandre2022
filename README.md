@@ -2,12 +2,10 @@
 
 
 - 🔭 Hoje trabalho com front-end
-- <img align="center" alt="lukas-Js" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Estudando JavaScript
 - <img align="center" alt="lukas-Js" height="15" width="20" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"> Estudando JavaScript
-- <img align="center" alt="lukas-Js" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Estudando PHP
-- <img align="center" alt="lukas-Js" height="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"> Estudando C#
-- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-- <img align="center" alt="lukas-Js" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Estudando MySql
+- <img align="center" alt="lukas-Js" height="15" width="20" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"> Estudando PHP
+- <img align="center" alt="lukas-Js" height="15" width="20" src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=6c64e3"> Estudando C#
+- <img align="center" alt="lukas-Js" height="15" width="20" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=6c64e3"> Estudando MySql
 - 📘 Graduando em Engenharia de Software
 - 📫 Contate-me no E-mail: Larosa2019@hotmail.com
 - 😄 Pronouns: Ele/Dele
