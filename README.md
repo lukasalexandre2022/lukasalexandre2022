@@ -3,6 +3,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - <img align="center" alt="lukas-Js" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Estudando JavaScript
+- <img align="center" alt="lukas-Js" height="15" width="20" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"> Estudando JavaScript
 - <img align="center" alt="lukas-Js" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Estudando PHP
 - <img align="center" alt="lukas-Js" height="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"> Estudando C#
 - <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
