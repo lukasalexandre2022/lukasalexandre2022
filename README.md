@@ -5,6 +5,7 @@
 - <img align="center" alt="lukas-Js" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Estudando JavaScript
 - <img align="center" alt="lukas-Js" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Estudando PHP
 - <img align="center" alt="lukas-Js" height="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"> Estudando C#
+- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 - <img align="center" alt="lukas-Js" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Estudando MySql
 - 📘 Graduando em Engenharia de Software
 - 📫 Contate-me no E-mail: Larosa2019@hotmail.com
